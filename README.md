@@ -40,3 +40,10 @@ Abaixo estão registrados os principais comandos praticados pela equipe durante 
 - Escrever mensagens claras e no imperativo ou indicativo curto.
 - Fazer commits pequenos e frequentes.
 - Sempre atualizar o repositório local (`git pull`) antes de enviar alterações.
+
+---
+
+
+## 🔗 Links Úteis
+- [Documentação Oficial do Git](https://git-scm.com/doc)
+- [Sintaxe do GitHub Markdown](https://docs.github.com/pt/get-started/writing-on-github)
