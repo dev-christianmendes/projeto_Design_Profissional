@@ -12,7 +12,6 @@ Este repositório foi criado como parte da **Atividade Avaliativa - Nível Bási
 | **Christian Rafael Gonçalves Mendes** | `@dev-christianmendes` | Criou o repositório e a estrutura inicial do README |
 | **Marcus Vinicius do Amaral Cardoso** | `@marcuscardoso-tech` | Adicionou anotações sobre comandos do Git |
 
-*(Remova as linhas excedentes caso o grupo tenha menos de 5 pessoas)*
 
 ---
 
