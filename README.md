@@ -33,3 +33,10 @@ Abaixo estão registrados os principais comandos praticados pela equipe durante 
 - **Git**: Controle de versão local.
 - **GitHub**: Hospedagem de código e trabalho colaborativo em equipe.
 - **Markdown**: Formatação de documentação.
+
+---
+
+## 💡 Boas Práticas de Commit Aprendidas
+- Escrever mensagens claras e no imperativo ou indicativo curto.
+- Fazer commits pequenos e frequentes.
+- Sempre atualizar o repositório local (`git pull`) antes de enviar alterações.
