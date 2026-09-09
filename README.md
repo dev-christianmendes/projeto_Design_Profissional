@@ -9,7 +9,7 @@ Este repositório foi criado como parte da **Atividade Avaliativa - Nível Bási
 
 | Nome Completo | Usuário no GitHub | Responsabilidade/Contribuição |
 | :--- | :--- | :--- |
-| **Christian Rafael Gonçalves Mendes** | `@dev-christianmendes` | Criou o repositório e a estrutura inicial do README |
+| **Christian Mendes** | `@dev-christianmendes` | Criou o repositório e a estrutura inicial do README |
 | **Marcus Vinicius do Amaral Cardoso** | `@marcuscardoso-tech` | Adicionou anotações sobre comandos do Git |
 
 
