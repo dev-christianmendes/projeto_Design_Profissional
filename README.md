@@ -1,4 +1,4 @@
-# 🚀 Repositório em Equipe - Anotações & Perfil da Dupla/Grupo
+# 🚀 Repositório em Equipe - Anotações & Perfil da Dupla ou Grupo.
 
 ## 📌 Sobre o Projeto
 Este repositório foi criado como parte da **Atividade Avaliativa - Nível Básico (Design Profissional)**. O objetivo principal é aplicar o ciclo prático de trabalho com Git e GitHub em equipe, incluindo a criação do repositório compartilhado, gerenciamento de colaboradores e registro individual de commits no histórico.
